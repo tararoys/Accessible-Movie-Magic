@@ -61,3 +61,6 @@ Then I will be happy with however much lap time I get,
 Pleased to have a companion that makes me take regular breaks from work,
 
 
+And learn to see the advantages of having a very fuzzy, very reliable 5 AM alarm clock.
+
+
