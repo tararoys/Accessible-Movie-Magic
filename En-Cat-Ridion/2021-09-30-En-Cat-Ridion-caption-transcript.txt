@@ -76,3 +76,6 @@ Then examine what's going on by this simple rule:
 Are you trying to control yourself or your cat?
 
 
+If it's yourself, excellent! You have learned the first rule of philosophy.
+
+
