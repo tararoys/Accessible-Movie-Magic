@@ -28,3 +28,6 @@ Download and install Talon for your operating system.
 I right click and open this link in new tab to go to the download page.
 
 
+I am going to download Talon for windows, and I am going to press the save file button.
+
+
