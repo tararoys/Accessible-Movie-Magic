@@ -1,0 +1,5 @@
+
+
+1
+00:00:00.000 -->  00:00:11.000
+I go to my downloads folder and select talon-windows.exe

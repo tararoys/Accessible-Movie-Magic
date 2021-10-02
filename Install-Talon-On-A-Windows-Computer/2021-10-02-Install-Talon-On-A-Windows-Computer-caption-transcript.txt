@@ -31,3 +31,6 @@ I right click and open this link in new tab to go to the download page.
 I am going to download Talon for windows, and I am going to press the save file button.
 
 
+I go to my downloads folder and select talon-windows.exe
+
+
