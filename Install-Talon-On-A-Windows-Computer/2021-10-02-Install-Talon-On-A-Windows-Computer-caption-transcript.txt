@@ -4,3 +4,6 @@ I'm going to install the voice control software Talon.
 Talon is software that allows you to control your computer entirely without hands.
 
 
+Talon has a free version, and the free version allows you to do everything that you need to do entirely without hands.
+
+
