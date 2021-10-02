@@ -16,3 +16,6 @@ First, I'm going to go talonvoice.com.
 Then I am going to go to the documentation link.
 
 
+Then I am going to go to the getting started link.
+
+
