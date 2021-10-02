@@ -22,3 +22,6 @@ Then I am going to go to the getting started link.
 Time to start following the instructions.
 
 
+Download and install Talon for your operating system.
+
+
