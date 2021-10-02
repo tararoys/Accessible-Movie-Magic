@@ -19,3 +19,6 @@ Then I am going to go to the documentation link.
 Then I am going to go to the getting started link.
 
 
+Time to start following the instructions.
+
+
