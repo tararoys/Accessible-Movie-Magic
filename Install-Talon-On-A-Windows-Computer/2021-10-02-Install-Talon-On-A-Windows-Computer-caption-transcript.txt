@@ -76,3 +76,6 @@ Talon begins installing.  Seems like a fairly fast process.
 Talon has successfully installed on my computer.
 
 
+The last screen the install wizard shows is the completed Talon setup.
+
+
