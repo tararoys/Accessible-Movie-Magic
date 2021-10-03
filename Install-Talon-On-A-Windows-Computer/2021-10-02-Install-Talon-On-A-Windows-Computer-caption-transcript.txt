@@ -52,3 +52,6 @@ Recommended that you close all other applications before starting to set up. Thi
 I am going to click I agree to the license because I cannot have the software without agreeing.
 
 
+Choose install location. Setup an install Talon in the following folder. To install a different folder click browse and select another folder. Click next to continue.
+
+
