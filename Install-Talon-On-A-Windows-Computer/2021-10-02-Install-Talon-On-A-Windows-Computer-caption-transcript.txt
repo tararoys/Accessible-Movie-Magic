@@ -64,3 +64,6 @@ Next screen is the choose start menu folder.
 This screen allows me to select the start menu folder where all the useful Talon shortcuts go.
 
 
+So I am not going to change anything.
+
+
