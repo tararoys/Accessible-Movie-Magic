@@ -139,3 +139,6 @@ To install it I go to the Jeff Knaus Github repository.
 I click on the green code button.
 
 
+I click download zip.
+
+
