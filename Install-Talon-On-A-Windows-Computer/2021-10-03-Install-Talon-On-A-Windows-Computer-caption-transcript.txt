@@ -34,3 +34,6 @@ The Talon practice website is a good place to go for beginners.
 The Talon practice website assumes that you are using the  knausj talon repository
 
 
+If you go through the lessons in order, it will teach you most of the very basics you need to know to get started controlling your computer entirely hands-free.
+
+
