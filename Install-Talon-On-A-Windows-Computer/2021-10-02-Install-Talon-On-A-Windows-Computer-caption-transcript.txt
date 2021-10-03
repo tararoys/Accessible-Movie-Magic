@@ -40,3 +40,6 @@ A window will pop up asking me if I want to allow this app to make changes to my
 I press yes.
 
 
+The welcome to Talon setup wizard appears.
+
+
