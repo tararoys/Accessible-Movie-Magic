@@ -106,3 +106,6 @@ On Windows my preferred way is to go to the Talon icon, go to scripting, and ope
 This opens the Talon home directory.
 
 
+The next step is to add some scripts to the Talon home directory user folder.
+
+
