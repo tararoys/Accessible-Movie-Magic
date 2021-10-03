@@ -142,3 +142,6 @@ I click on the green code button.
 I click download zip.
 
 
+It asks 'What should Firefox do with this file?  I wish to save scripts set.
+
+
