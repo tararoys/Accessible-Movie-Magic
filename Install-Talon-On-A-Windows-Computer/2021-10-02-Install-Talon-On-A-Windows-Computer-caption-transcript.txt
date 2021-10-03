@@ -61,3 +61,6 @@ The destination folder is C:\Program Files\Talon, I do not want to change that, 
 Next screen is the choose start menu folder.
 
 
+This screen allows me to select the start menu folder where all the useful Talon shortcuts go.
+
+
