@@ -31,3 +31,6 @@ To get started learning Talon, go to the side bar on the Talon documentation web
 The Talon practice website is a good place to go for beginners.
 
 
+The Talon practice website assumes that you are using the  knausj talon repository
+
+
