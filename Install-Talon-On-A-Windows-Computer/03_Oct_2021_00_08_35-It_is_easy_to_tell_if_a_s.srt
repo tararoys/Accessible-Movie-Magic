@@ -1,0 +1,5 @@
+
+
+1
+00:00:00.000 -->  00:00:16.000
+It is easy to tell if a speech recognition system was installed because the subtitles begin appearing across the bottom.
