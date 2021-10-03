@@ -91,3 +91,6 @@ I go to the search bar and type talon.
 Then I click on the Talon app.
 
 
+Talon has launched.  It is difficult to tell, however, because the 'Talon is on' icon is this icon down here in the lower right hand corner.
+
+
