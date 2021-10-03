@@ -22,3 +22,6 @@ Talon will start doing strange things because it comes turned on and command mod
 I can tell Talon is in sleep mode because the icon has a slash through it.
 
 
+I have successfully installed Talon on a Windows 10 computer.
+
+
