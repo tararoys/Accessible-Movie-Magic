@@ -160,3 +160,6 @@ Click on the file knausj_talon-master and press copy.
 I go down to Windows file explorer,
 
 
+find the Talon Home directory,
+
+
