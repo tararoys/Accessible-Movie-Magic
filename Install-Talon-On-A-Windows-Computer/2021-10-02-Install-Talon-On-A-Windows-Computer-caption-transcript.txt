@@ -124,3 +124,6 @@ As the instructions say, your user scripts control all of the voice commands in 
 I'm going to the getting scripts section.
 
 
+There is one script set that is currently recommended to install.
+
+
