@@ -70,3 +70,6 @@ So I am not going to change anything.
 I clicked the install button.
 
 
+Talon begins installing.  Seems like a fairly fast process.
+
+

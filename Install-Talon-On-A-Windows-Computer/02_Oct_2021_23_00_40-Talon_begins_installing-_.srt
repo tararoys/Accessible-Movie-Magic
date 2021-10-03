@@ -1,0 +1,5 @@
+
+
+1
+00:00:00.000 -->  00:00:14.000
+Talon begins installing.  Seems like a fairly fast process.
