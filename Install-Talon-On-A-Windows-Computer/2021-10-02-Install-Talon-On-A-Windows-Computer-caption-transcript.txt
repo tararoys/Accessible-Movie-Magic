@@ -43,3 +43,6 @@ I press yes.
 The welcome to Talon setup wizard appears.
 
 
+Welcome to Talon setup. Setup will guide you through the installation of Talon.
+
+
