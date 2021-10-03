@@ -19,3 +19,6 @@ It is easy to tell if a speech recognition system was installed because the subt
 Talon will start doing strange things because it comes turned on and command mode enabled. To turn off command mode go to speech recognition and sleep.
 
 
+I can tell Talon is in sleep mode because the icon has a slash through it.
+
+
