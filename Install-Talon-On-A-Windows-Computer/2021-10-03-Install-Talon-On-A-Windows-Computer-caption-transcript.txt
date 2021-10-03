@@ -28,3 +28,6 @@ I have successfully installed Talon on a Windows 10 computer.
 To get started learning Talon, go to the side bar on the Talon documentation website and click the link 'Learning Talon.'
 
 
+The Talon practice website is a good place to go for beginners.
+
+
