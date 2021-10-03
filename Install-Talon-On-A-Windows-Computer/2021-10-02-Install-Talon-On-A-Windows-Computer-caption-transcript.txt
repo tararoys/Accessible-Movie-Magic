@@ -73,3 +73,6 @@ I clicked the install button.
 Talon begins installing.  Seems like a fairly fast process.
 
 
+Talon has successfully installed on my computer.
+
+
