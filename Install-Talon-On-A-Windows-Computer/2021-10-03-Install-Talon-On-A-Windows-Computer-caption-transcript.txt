@@ -7,3 +7,6 @@ Now I have the scripts I need installed.
 Back to Firefox and hit the back button to return to my installation instructions.
 
 
+I install conformer using Talon speech recognition menu as my next step.
+
+
