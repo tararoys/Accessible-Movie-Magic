@@ -163,3 +163,6 @@ I go down to Windows file explorer,
 find the Talon Home directory,
 
 
+I click on the user directory.
+
+
