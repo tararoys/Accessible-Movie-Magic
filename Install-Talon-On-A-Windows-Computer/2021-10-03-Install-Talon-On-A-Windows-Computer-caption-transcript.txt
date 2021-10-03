@@ -10,3 +10,6 @@ Back to Firefox and hit the back button to return to my installation instruction
 I install conformer using Talon speech recognition menu as my next step.
 
 
+To find a Talon speech recognition menu I go down to the Talon icon, click on it go to speech recognition and go to install conformer.
+
+

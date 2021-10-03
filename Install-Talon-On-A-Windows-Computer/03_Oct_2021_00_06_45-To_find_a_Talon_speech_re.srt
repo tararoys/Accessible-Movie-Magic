@@ -1,0 +1,5 @@
+
+
+1
+00:00:00.000 -->  00:00:20.000
+To find a Talon speech recognition menu I go down to the Talon icon, click on it go to speech recognition and go to install conformer.
