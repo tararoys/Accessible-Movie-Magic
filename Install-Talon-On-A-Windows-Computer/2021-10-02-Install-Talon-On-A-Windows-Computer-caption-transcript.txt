@@ -82,3 +82,6 @@ The last screen the install wizard shows is the completed Talon setup.
 I click the finish button.
 
 
+I am now on step two: run the Talon app.
+
+
