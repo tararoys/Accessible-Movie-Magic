@@ -40,3 +40,6 @@ If you go through the lessons in order, it will teach you most of the very basic
 If you have any questions or run into problems with this installation process go talonvoice.com, chat, and join the Talon slack.
 
 
+For basic installation questions, I recommend the #help channel.
+
+
