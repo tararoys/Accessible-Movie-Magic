@@ -100,3 +100,6 @@ Step 3 is to open the Talon Home Directory.
 There are many ways of doing this.
 
 
+On Windows my preferred way is to go to the Talon icon, go to scripting, and open ~/Talon.
+
+
