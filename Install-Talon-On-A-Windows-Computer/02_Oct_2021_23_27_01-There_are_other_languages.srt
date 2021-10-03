@@ -1,0 +1,5 @@
+
+
+1
+00:00:00.000 -->  00:00:15.000
+There are other languages and other input methods that Talon accepts, but since I am an English speaker and I use English words, that's what I need Talon to do for me the most.

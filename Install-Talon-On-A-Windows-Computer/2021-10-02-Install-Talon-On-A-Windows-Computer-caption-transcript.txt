@@ -115,3 +115,6 @@ Talon is incredibly customizable.
 You can use Talon to set any English voice phrase to any action on your computer.
 
 
+There are other languages and other input methods that Talon accepts, but since I am an English speaker and I use English words, that's what I need Talon to do for me the most.
+
+
