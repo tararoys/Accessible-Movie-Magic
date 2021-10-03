@@ -1,0 +1,5 @@
+
+
+1
+00:00:00.000 -->  00:00:11.000
+As the instructions say, your user scripts control all of the voice commands in Talon.  So Talon won't recognize any commands until you add some scripts.
