@@ -112,3 +112,6 @@ The next step is to add some scripts to the Talon home directory user folder.
 Talon is incredibly customizable.
 
 
+You can use Talon to set any English voice phrase to any action on your computer.
+
+
