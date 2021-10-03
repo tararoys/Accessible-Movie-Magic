@@ -127,3 +127,6 @@ I'm going to the getting scripts section.
 There is one script set that is currently recommended to install.
 
 
+Knauj Talon script set, started by Jeff Knauj, and maintained by about a dozen Talon users.
+
+
