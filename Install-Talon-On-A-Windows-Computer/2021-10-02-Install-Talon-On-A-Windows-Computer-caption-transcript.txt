@@ -55,3 +55,6 @@ I am going to click I agree to the license because I cannot have the software wi
 Choose install location. Setup an install Talon in the following folder. To install a different folder click browse and select another folder. Click next to continue.
 
 
+The destination folder is C:\Program Files\Talon, I do not want to change that, so I am going to press the next button.
+
+
