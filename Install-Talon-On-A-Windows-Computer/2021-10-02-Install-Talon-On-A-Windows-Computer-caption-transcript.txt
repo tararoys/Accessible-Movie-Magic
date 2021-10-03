@@ -103,3 +103,6 @@ There are many ways of doing this.
 On Windows my preferred way is to go to the Talon icon, go to scripting, and open ~/Talon.
 
 
+This opens the Talon home directory.
+
+
