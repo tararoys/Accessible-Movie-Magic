@@ -79,3 +79,6 @@ Talon has successfully installed on my computer.
 The last screen the install wizard shows is the completed Talon setup.
 
 
+I click the finish button.
+
+
