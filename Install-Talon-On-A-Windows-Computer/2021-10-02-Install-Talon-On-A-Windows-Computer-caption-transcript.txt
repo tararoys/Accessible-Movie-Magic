@@ -58,3 +58,6 @@ Choose install location. Setup an install Talon in the following folder. To inst
 The destination folder is C:\Program Files\Talon, I do not want to change that, so I am going to press the next button.
 
 
+Next screen is the choose start menu folder.
+
+
