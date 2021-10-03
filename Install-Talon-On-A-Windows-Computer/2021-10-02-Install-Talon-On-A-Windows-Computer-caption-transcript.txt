@@ -85,3 +85,6 @@ I click the finish button.
 I am now on step two: run the Talon app.
 
 
+I go to the search bar and type talon.
+
+
