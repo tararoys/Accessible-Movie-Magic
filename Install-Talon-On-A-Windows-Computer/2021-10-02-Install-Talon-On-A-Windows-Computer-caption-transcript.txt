@@ -67,3 +67,6 @@ This screen allows me to select the start menu folder where all the useful Talon
 So I am not going to change anything.
 
 
+I clicked the install button.
+
+
