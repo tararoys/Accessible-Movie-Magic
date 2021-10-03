@@ -148,3 +148,6 @@ It asks 'What should Firefox do with this file?  I wish to save scripts set.
 I go to the download button in Firefox...
 
 
+...and I click open knausj.
+
+
