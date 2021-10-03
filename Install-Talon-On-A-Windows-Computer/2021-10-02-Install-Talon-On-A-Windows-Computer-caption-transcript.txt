@@ -133,3 +133,6 @@ Knauj Talon script set, started by Jeff Knauj, and maintained by about a dozen T
 It is one of the biggest, most robust, and least buggy scripts that's currently available and, by default, it is the recommended script set to install.
 
 
+To install it I go to the Jeff Knaus Github repository.
+
+
