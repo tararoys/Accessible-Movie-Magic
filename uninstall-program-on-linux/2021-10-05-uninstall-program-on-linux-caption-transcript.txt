@@ -70,3 +70,6 @@ So the multiverse repository contains packages of software that are not free, re
 This window does not look like that window
 
 
+Smurf says the universe Multiverse repositories are enabled by default in mint
+
+
