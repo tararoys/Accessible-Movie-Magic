@@ -1,3 +1,6 @@
 How do I uninstall software using the command line in Linux
 
 
+What do I do if I need to uninstall a program?
+
+
