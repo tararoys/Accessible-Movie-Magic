@@ -64,3 +64,6 @@ It says to make sure that I enable to Multiverse repo in ubuntu's software cente
 Archisman Panigrahi Dec 13 2020
 
 
+So the multiverse repository contains packages of software that are not free, referring to licensing restrictions.
+
+
