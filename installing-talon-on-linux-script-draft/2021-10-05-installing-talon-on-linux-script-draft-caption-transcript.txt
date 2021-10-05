@@ -28,3 +28,6 @@ There is a link in step one and I click it so I can go to the page where it says
 I click download Talon for Linux.
 
 
+I am going to open talon-linux.tar.xz and I am going to open it with the archive manager. I press OK.
+
+
