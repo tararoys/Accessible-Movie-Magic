@@ -31,3 +31,6 @@ is the process for uninstalling Talon from a Linux machine as simple as deleting
 if you're just trying to take a video of first setup, you need to sudo rm /etc/udev/rules.d/10-talon.rules as well (you don't need to do that otherwise)
 
 
+OK in theory I am all set up to reinstall Talon.
+
+
