@@ -46,3 +46,6 @@ I'm going to install will be a studio using the Linux install directions
 Step one install FFMpeg. FFMpeg is required
 
 
+If I want to install virtual camera support I need to do the following command so I'm not sure what that is but I'm going to do it anyway.
+
+
