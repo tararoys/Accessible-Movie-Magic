@@ -106,3 +106,6 @@ At this point it's better to restart Talon to give everything a fresh start.
 Talon wake.
 
 
+To restart Talon again go to Talon, go to run.sh, double click it and double click 'run in terminal.'
+
+
