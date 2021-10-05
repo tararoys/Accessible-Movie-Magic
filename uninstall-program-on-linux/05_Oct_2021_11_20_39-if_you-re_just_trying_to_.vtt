@@ -1,0 +1,6 @@
+WEBVTT
+
+
+1
+00:00:00.000 -->  00:00:18.000
+if you're just trying to take a video of first setup, you need to sudo rm /etc/udev/rules.d/10-talon.rules as well (you don't need to do that otherwise)
