@@ -91,3 +91,6 @@ In the user  directoy type git clone http://gethub.com/knausj85/knausj_talon.
 Script set is now downloaded.
 
 
+No I can move on the step for installing conformer using Talon's speech recognition menu.
+
+
