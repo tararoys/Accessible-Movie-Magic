@@ -43,3 +43,6 @@ Talon is now on my desktop.  There is a window that says Talon has been extracte
 The Talon file is open. In it are five files.
 
 
+I go back to my instructions. They say step two: run the talon app.
+
+
