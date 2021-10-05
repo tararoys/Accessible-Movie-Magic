@@ -16,3 +16,6 @@ I want to see if Talon is installed as a package on Lenix anywhere
 And I got no results searching for the word talon with grep
 
 
+So I can assume the Talon is not an install package which makes sense since I didn't install it through a package manager
+
+
