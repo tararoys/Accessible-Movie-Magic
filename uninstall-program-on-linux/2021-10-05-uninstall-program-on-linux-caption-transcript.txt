@@ -58,3 +58,6 @@ Around Cito app to get update so now I'm going to try the loop  back again
 So installing DKMS worked and I am going to move onto the next step.
 
 
+It says to make sure that I enable to Multiverse repo in ubuntu's software center
+
+
