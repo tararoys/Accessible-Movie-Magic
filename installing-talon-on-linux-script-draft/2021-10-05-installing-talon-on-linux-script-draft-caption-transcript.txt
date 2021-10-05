@@ -16,3 +16,6 @@ Then I go to the documentation link.
 After that I go to the getting started section.
 
 
+I start reading the instructions in the getting started section.
+
+
