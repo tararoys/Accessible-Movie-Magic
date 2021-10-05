@@ -1,3 +1,6 @@
 I'm going to install Talon on my Linux machine.
 
 
+Talon is a program that allows me to control my computer entirely without hands.
+
+
