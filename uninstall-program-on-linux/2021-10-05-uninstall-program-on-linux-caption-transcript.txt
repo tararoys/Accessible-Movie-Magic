@@ -79,3 +79,6 @@ So this output looks like the same as the output smurfos says I should have
 I was stuck on the Soto app to repository PPA command so I just skipped it and went to the install and it appeared to work.
 
 
+successfully installed OBS studio
+
+
