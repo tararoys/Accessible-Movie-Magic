@@ -19,3 +19,6 @@ And I got no results searching for the word talon with grep
 So I can assume the Talon is not an install package which makes sense since I didn't install it through a package manager
 
 
+So I think uninstalling Talon is a simple as removing the Talon folder and the doc talon folder since Talon is not installed through a package manager.
+
+
