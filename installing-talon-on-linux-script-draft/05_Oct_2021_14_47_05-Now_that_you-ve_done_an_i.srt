@@ -1,0 +1,5 @@
+
+
+1
+00:00:00.000 -->  00:00:14.000
+Now that you've done an install, the next thing you want to do is learn Talon. Go back to the docs and click the 'learning Talon' link, and go to 'Talon practice' by chaosparrot.
