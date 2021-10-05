@@ -10,3 +10,6 @@ I want to uninstall Talon
 I think it might be as simple as deleting the Talon folder.
 
 
+I want to see if Talon is installed as a package on Lenix anywhere
+
+
