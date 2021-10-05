@@ -55,3 +55,6 @@ So I'm going to install the look bad thing now and it failed
 Around Cito app to get update so now I'm going to try the loop  back again
 
 
+So installing DKMS worked and I am going to move onto the next step.
+
+
