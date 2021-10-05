@@ -13,3 +13,6 @@ The first thing I do is go to my web browser and go to talonvoice.com
 Then I go to the documentation link.
 
 
+After that I go to the getting started section.
+
+
