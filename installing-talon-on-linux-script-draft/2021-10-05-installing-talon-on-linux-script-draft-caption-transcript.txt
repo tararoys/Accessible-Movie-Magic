@@ -94,3 +94,6 @@ Script set is now downloaded.
 No I can move on the step for installing conformer using Talon's speech recognition menu.
 
 
+To install conformer go to the Talin icon click speech recognition and click install conformer
+
+
