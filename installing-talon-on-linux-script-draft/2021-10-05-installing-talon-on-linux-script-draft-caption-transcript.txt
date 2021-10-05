@@ -112,3 +112,6 @@ To restart Talon again go to Talon, go to run.sh, double click it and double cli
 Now that you've done an install, the next thing you want to do is learn Talon. Go back to the docs and click the 'learning Talon' link, and go to 'Talon practice' by chaosparrot.
 
 
+It'll give you everything from Italian alphabet to browsing the web.
+
+
