@@ -61,3 +61,6 @@ I open the Talon Home directory and tell him he has a menu in my system trade ne
 The next step is to add some scraps of the ~/.talon/user directoru. Your user scripts control all the voice commands and talon wont recognize any commands until I add some Scripts.
 
 
+To get Scripts, I go to the getting Scripts link.
+
+
