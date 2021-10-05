@@ -22,3 +22,6 @@ I start reading the instructions in the getting started section.
 Step one: download and install Talon for your operating system.
 
 
+There is a link in step one and I click it so I can go to the page where it says download Talon for Linux.
+
+
