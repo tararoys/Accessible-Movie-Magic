@@ -31,3 +31,6 @@ I click download Talon for Linux.
 I am going to open talon-linux.tar.xz and I am going to open it with the archive manager. I press OK.
 
 
+There is one folder in the archive and I am going to extract it to my desktop.
+
+
