@@ -1,0 +1,5 @@
+
+
+1
+00:00:00.000 -->  00:00:16.000
+is the process for uninstalling Talon from a Linux machine as simple as deleting the Talon with all of Talon's code directory and the .talon directory with all the user scripts and recordings and such?

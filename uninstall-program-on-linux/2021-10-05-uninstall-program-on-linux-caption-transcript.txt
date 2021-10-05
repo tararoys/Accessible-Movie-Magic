@@ -25,3 +25,6 @@ So I think uninstalling Talon is a simple as removing the Talon folder and the d
 So I no longer see Talon or .talon in my home directory, and they were there before.
 
 
+is the process for uninstalling Talon from a Linux machine as simple as deleting the Talon with all of Talon's code directory and the .talon directory with all the user scripts and recordings and such?
+
+
