@@ -82,3 +82,6 @@ Open the terminal.
 Go to the home directory in the terminal.
 
 
+Change to the user directory.
+
+
