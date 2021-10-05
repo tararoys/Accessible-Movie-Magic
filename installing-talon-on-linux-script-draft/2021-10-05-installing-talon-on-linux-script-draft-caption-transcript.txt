@@ -64,3 +64,6 @@ The next step is to add some scraps of the ~/.talon/user directoru. Your user sc
 To get Scripts, I go to the getting Scripts link.
 
 
+Next thing is to get the knausj_Talon script set.
+
+
