@@ -52,3 +52,6 @@ To run Talon a double click run.SH and click the run in terminal button. it will
 Talon starts setting itself up.
 
 
+You can tell Talon is set up when a little pair of horns appears in the bottom right hand corner of the screen.
+
+
