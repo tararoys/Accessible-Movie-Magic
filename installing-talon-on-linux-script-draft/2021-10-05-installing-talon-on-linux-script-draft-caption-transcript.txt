@@ -73,3 +73,6 @@ the knausj_talon script set started as the personal script set of Jeff Knaus and
 When you're in the knausj repo, click on the green code button.
 
 
+Copy your HTTPS github link that shows up and then go to your command line.
+
+
