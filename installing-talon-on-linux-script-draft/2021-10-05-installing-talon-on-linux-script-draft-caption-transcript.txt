@@ -70,3 +70,6 @@ Next thing is to get the knausj_Talon script set.
 the knausj_talon script set started as the personal script set of Jeff Knaus and is now maintained by about a dozen heavy Talon users.
 
 
+When you're in the knausj repo, click on the green code button.
+
+
