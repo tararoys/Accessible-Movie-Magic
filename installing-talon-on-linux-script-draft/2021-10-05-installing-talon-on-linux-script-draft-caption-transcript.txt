@@ -7,3 +7,6 @@ Talon is a program that allows me to control my computer entirely without hands.
 This is important to me because my hands don't work very well and I use a computer for my job so being able to use a computer without hands means I have a lot less pain throughout the day.
 
 
+The first thing I do is go to my web browser and go to talonvoice.com
+
+
