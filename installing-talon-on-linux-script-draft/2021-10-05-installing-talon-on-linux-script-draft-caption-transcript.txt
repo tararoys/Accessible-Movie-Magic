@@ -85,3 +85,6 @@ Go to the home directory in the terminal.
 Change to the user directory.
 
 
+In the user  directoy type git clone http://gethub.com/knausj85/knausj_talon.
+
+
