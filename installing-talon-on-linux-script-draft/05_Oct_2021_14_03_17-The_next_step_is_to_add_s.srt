@@ -1,0 +1,5 @@
+
+
+1
+00:00:00.000 -->  00:00:12.000
+The next step is to add some scraps of the ~/.talon/user directoru. Your user scripts control all the voice commands and talon wont recognize any commands until I add some Scripts.

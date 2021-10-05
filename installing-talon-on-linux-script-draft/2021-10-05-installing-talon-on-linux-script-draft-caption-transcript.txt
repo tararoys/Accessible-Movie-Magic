@@ -58,3 +58,6 @@ You can tell Talon is set up when a little pair of horns appears in the bottom r
 I open the Talon Home directory and tell him he has a menu in my system trade near the clock where I can go to scripting open ~/. talon to get to the Talon Home Directory.
 
 
+The next step is to add some scraps of the ~/.talon/user directoru. Your user scripts control all the voice commands and talon wont recognize any commands until I add some Scripts.
+
+
