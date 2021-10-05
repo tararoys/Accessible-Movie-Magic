@@ -1,0 +1,5 @@
+
+
+1
+00:00:00.000 -->  00:00:04.000
+At this point it's better to restart Talon to give everything a fresh start.
