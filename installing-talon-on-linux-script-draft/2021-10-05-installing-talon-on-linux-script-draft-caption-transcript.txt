@@ -79,3 +79,6 @@ Copy your HTTPS github link that shows up and then go to your command line.
 Open the terminal.
 
 
+Go to the home directory in the terminal.
+
+
