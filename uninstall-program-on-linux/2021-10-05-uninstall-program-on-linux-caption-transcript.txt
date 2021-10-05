@@ -37,3 +37,6 @@ OK in theory I am all set up to reinstall Talon.
 Except I don't have OPS studio installed.
 
 
+I need to install oBS studio on Linux in order to be able to do this.
+
+
