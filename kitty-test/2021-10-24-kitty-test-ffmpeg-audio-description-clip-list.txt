@@ -1,2 +1,4 @@
 file '24_Oct_2021_11_24_24-Another_charming_photo_of-audio-description.m4a'
 file '24_Oct_2021_11_24_24-Another_charming_photo_of.srt'
+file '24_Oct_2021_11_56_09-Yet_another_fine_picture_-audio-description.m4a'
+file '24_Oct_2021_11_56_09-Yet_another_fine_picture_.srt'
