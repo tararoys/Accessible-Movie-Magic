@@ -1,2 +1,4 @@
 file '-Find_a_shirt_to_wear--audio-description.m4a'
 file '-Find_a_shirt_to_wear-.srt'
+file '-Put_on_clean_T-shirt--audio-description.m4a'
+file '-Put_on_clean_T-shirt-.srt'
